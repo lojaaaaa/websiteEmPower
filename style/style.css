@@ -58,7 +58,7 @@ body{
 
 .header__inner{
     min-height: 900px;
-    background-image: url(../bgHeader.jpg);
+    background-image: url(../img/bgHeader.jpg);
     background-repeat : no-repeat;
     background-size: cover;
     background-position: center center;
@@ -120,7 +120,7 @@ body{
 .header__achieve-text::before{
     position: absolute;
     content: "";
-    background-image: url(../left.svg);
+    background-image: url(../img/icons/left.svg);
     background-repeat: no-repeat;
     width: 40px;
     height: 40px;
@@ -130,7 +130,7 @@ body{
 .header__achieve-text::after{
     position: absolute;
     content: "";
-    background-image: url(../right.svg);
+    background-image: url(../img/icons/right.svg);
     background-repeat: no-repeat;
     width: 40px;
     height: 40px;
@@ -217,7 +217,7 @@ body{
     flex-direction: column;
     flex-basis: 100%;
     height: 600px;
-    background-image: url(../info/1.jpg);
+    background-image: url(../img/info/1.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -345,7 +345,7 @@ body{
 }
 
 .choise__card--pink {
-    background-image: url(../cards/1.jpg);
+    background-image: url(../img/cards/1.jpg);
 }
 
 .choise__card-title {
@@ -357,7 +357,7 @@ body{
 }
 
 .choise__card--black {
-    background-image: url(../cards/2.jpg);
+    background-image: url(../img/cards/2.jpg);
 }
 
 .choise__card-title--pink {
