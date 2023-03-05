@@ -217,7 +217,7 @@ body{
     flex-direction: column;
     flex-basis: 100%;
     height: 600px;
-    background-image: url(/img/info/1.jpg);
+    background-image: url(./img/info/1.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
