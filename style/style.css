@@ -58,7 +58,6 @@ body{
 
 .header__inner{
     min-height: 900px;
-    background-image: url(./img/bgHeader.jpg);
     background-repeat : no-repeat;
     background-size: cover;
     background-position: center center;
